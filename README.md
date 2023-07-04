@@ -1,15 +1,5 @@
 # **Project Name : - Intelligent Tour system**
 
-   ![](https://img.shields.io/badge/MongoDB-4.2.13-003300?style=flat-circle&logo=MongoDB)
-   ![](https://img.shields.io/badge/ExpressJS-4.17.1-000000?style=flat-circle&logo=Express)
-   ![](https://img.shields.io/badge/React-17.0.1-87CEEB?style=flat-circle&logo=react&logoColor=309698)
-   ![](https://img.shields.io/badge/NodeJS-16.0.0-009900?style=flat-circle&logo=node.js)
-   ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
-   ![](https://img.shields.io/github/license/shsarv/TravelYaari-react?style=flat-circle)
-   ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
-   ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
-
-
 
 <hr />
 
@@ -170,10 +160,10 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
 ### How to run the project 🚀:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `$ git clone https://github.com/shsarv/TravelYaari-react.git `.
+  2. Clone the repository by entering `$ git clone https://github.com/codeakshat/Tourist-Recommendation.git `.
   3. Ensure that `NodeJS` and `npm` are installed on the system.
-  4. change the diectory to repository name using  `$ cd https://github.com/shsarv/TravelYaari-react`.
-  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/shsarv/TravelYaari-api).
+  4. change the diectory to repository name using  `$ cd https://github.com/codeakshat/Tourist-Recommendation`.
+  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project 
   5. install the dependencies by executing the follwing command: `$ npm install`.
   6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
