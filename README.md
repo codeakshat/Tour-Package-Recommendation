@@ -63,101 +63,12 @@ The main objective of the project is to create a website using MERN STACK techno
  <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="ExpressJS"></code>
  <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB"></code>
 
-<details>
-<summary><strong>TravelYaari Progress Status Report</strong></summary>
 
-### The Project TravelYaari was divided into 3 main part:
-
-1. Complete frontend using HTML5, CSS3 and JavaScript
-2. TravelYaari backend Api using NodeJS and ExpressJS.
-3. TravelYaari fully working website with MERN Stack.
-
-## PART - 1 : -
-
-The Part 1 was divided into 5 phases:
-phase - 1 :( 15 July 2020 **–** 18 July 2020)
-
-- Motive Declaration and resource gathering
-- Analyzing Different travelling Blogs
-- Understanding working of a tour and travel Website.
-
-```
-phase-2 : (18 July 2020 - 10 October 2020)
-```
-- Basic Skelton making of the project
-- index page designing
-- user validation and access generation (login signup)
-- designing pages for authorised and non authorised user.
-```
-phase -3 : (10 Oct 2020 **–** 22 Nov 2020)
-```
-- Creating all the type of places.
-- creating cities page
-- Styling each page.
-- linking videoLink to each destination
-- add overlay to each place for more detail
-```
-phase 4: ( 22 Nov 2020 - 28 Nov 2020)
-```
-- Adding setting service to the user.
-- adding details about us.
-- adding contact page to reach us and booking service.
-- linking each page and making final touch up to each page
-```
-phase 5: ( 2 Dec 2020)
-```
-Deployment of fully working frontend website to GitHub pages.
-
-## PART - 2 : -
-
-```
-phase - 1 :( 15 Jan 2021 – 31 March 2021 )
-```
-- Understanding MERN Stack Technologies.
-- Got skilled in MongoDB and React.
-- Sharpen skills in NodeJS and ExpressJS.
-
-```
-phase-2 : ( 1 April 2021 - 20 April 2021 )
-```
-- Basic Skelton making of the backend /API.
-- user validation and access generation (login signup)
-- Created different controller components for authorization, categorization, users
-    and places.
-- Designed error handling functional components.
-- Defined Model Schema for users, category, Order and places.
-- Initialized different routes for handling API request corresponding to user or
-    admin.
-
-
-## PART - 3 : -
-
-    // "predeploy": "npm run build",
-    // "deploy" : "gh-pages -d build",
-
-```
-phase - 1 :( 20 April 2021 – 30 April 2021 )
-```
-- Created React App.
-- Designed functional component for navigation bar, carousal, homepage, footer ,
-    signup , signin, and gallery.
-- Developed Components for Admin sides which includes create category, create
-    places, order view, payment gateway, CRUD operational component, order
-    status management, contact handling, feedback and user support.
-- Developed component for user side which includes places, Wishlist, order,
-    payment, gallery, search places, filter and selecting places, view places , take a
-    tour, video tours and so on.
-phase-2 : ( 30 April 2021 - 10 May 2021 )
-- Test debug and Deployment phase.
-- Tested each component and routes and their performance
-- Deployed to Heroku and published at https://travelyaari.herokuapp.com/
-
-</details>
 
 ### How to run the project 🚀:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `$ git clone https://github.com/codeakshat/Tourist-Recommendation.git `.
+  2. Clone the repository by entering `$ git clone https://github.com/codeakshat/Tour-Package-Recommendation.git `.
   3. Ensure that `NodeJS` and `npm` are installed on the system.
   4. change the diectory to repository name using  `$ cd https://github.com/codeakshat/Tourist-Recommendation`.
   4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project 
